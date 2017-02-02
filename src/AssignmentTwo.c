@@ -34,6 +34,7 @@ int numGreenLEDsOn = 5;
 int numBlueLEDsOn = 3;
 int blue_off = 0;
 int green_off = 0; //change 2
+int red_off = 0; //test
 
 void Setup();
 void input_setup();
