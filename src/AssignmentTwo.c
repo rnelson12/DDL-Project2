@@ -212,14 +212,14 @@ void p1_switch_pressed(){
 	p1_blue();
 	p1_green();
 	p1_red();
-	wait_ticks(80000);
+	wait_ticks(100000);
 }
 
 void p2_switch_pressed(){
 	p2_blue();
 	p2_green();
 	p2_red();
-	wait_ticks(80000);
+	wait_ticks(100000);
 }
 
 void p1_blue() {
