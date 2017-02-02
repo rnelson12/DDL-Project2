@@ -58,7 +58,7 @@ void disable_green();
 void disable_red();
 
 void wait_ticks(int count);
-void wait(float count);
+//void wait(float count);
 
 
 int main(void) {
