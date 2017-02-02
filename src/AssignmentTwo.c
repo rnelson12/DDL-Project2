@@ -32,7 +32,7 @@
 int numRedLEDsOn = 7;
 int numGreenLEDsOn = 5;
 int numBlueLEDsOn = 3;
-
+int blue_off = 0;
 
 void Setup();
 void input_setup();
